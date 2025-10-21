@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://openjdk.java.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
-[![H2 Database](https://img.shields.io/badge/H2-Memory-DB-red.svg)](https://www.h2database.com/)
+[![H2 Database](https://img.shields.io/badge/H2-Database-red.svg)](https://www.h2database.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/nakhandev/expense-tracker-api)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
