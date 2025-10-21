@@ -4,6 +4,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
 [![H2 Database](https://img.shields.io/badge/H2-Memory-DB-red.svg)](https://www.h2database.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/nakhandev/expense-tracker-api)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A comprehensive REST API for tracking personal and household expenses with advanced filtering, categorization, and summary features. Built with Spring Boot 3.x and H2 in-memory database for quick testing and development.
@@ -40,7 +41,7 @@ A comprehensive REST API for tracking personal and household expenses with advan
 
 ### One-Command Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/nakhandev/expense-tracker-api.git
 cd expense-tracker-api
 ./start.sh
 ```
@@ -51,7 +52,7 @@ The API will be available at **http://localhost:8080**
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/nakhandev/expense-tracker-api.git
 cd expense-tracker-api
 ```
 
